@@ -6,5 +6,5 @@
 Релейный модуль управляет исполнительным механизмом (электромагнитный замок, электромагнит, турникет и Т.П.)
 
 Схема соединения элементов приведена ниже:
-![Image alt](https://github.com/RosinMih/AccessControlServer/new/{master}/image.png)
+![Image alt](https://github.com/RosinMih/AccessControlServer/blob/master/image.png)
  
